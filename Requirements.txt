@@ -1,0 +1,6 @@
+streamlit==1.12
+spacy
+pandas
+opencv-python
+gensim==3.8.3
+networkx
